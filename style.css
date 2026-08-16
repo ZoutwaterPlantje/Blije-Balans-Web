@@ -3,4 +3,9 @@
 body {
     background-color: #d2d8cb;
     color: #2b2d31;
+     font-family: 'DM Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Lora', serif;
 }
